@@ -1,3 +1,5 @@
+
+
 {
   "timestamp": 1561218720,
   "upgrade_notice": {
@@ -5,7 +7,6 @@
     "message": "",
     "update_link": ""
   },
-
   "library": {
     "types_data": {
       "block": {
@@ -34,7 +35,6 @@
           "testimonials"
         ]
       },
-
       "popup": {
         "categories": [
           "bottom bar",
@@ -46,14 +46,12 @@
         ]
       }
     },
-
     "categories": "[\"404 page\",\"about\",\"archive\",\"call to action\",\"clients\",\"contact\",\"faq\",\"features\",\"footer\",\"header\",\"hero\",\"portfolio\",\"pricing\",\"product archive\",\"services\",\"single page\",\"single post\",\"single product\",\"stats\",\"subscribe\",\"team\",\"testimonials\"]",
     "templates": [
-
       {
         "id": "2",
-        "title": "Ayan Hero",
-        "thumbnail": "https://raw.githubusercontent.com/froala/design-blocks/master/screenshots/contents/29.jpg",
+        "title": "Hero 1",
+        "thumbnail": "https://raw.githubusercontent.com/froala/design-blocks/master/screenshots/contents/14.jpg",
         "tmpl_created": "1520443695",
         "author": "Elementor",
         "url": "https://library.elementor.com/blocks/hero-1/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview",
@@ -65,10 +63,9 @@
         "trend_index": "0",
         "has_page_settings": "0"
       },
-
       {
         "id": "1",
-        "title": "Dugdugi",
+        "title": "Ayan Kit",
         "thumbnail": "https://raw.githubusercontent.com/froala/design-blocks/master/screenshots/contents/14.jpg",
         "tmpl_created": "1475067229",
         "author": "Elementor",
@@ -80,9 +77,7 @@
         "popularity_index": "0",
         "trend_index": "0",
         "has_page_settings": "0"
-      },
-
-
+      }
     ]
   }
 }
